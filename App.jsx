@@ -1,6 +1,6 @@
 
 import React from "react"
-import "./App.css";
+
 import { PhoneIcon, MailIcon, HomeIcon, WrenchIcon } from "lucide-react"
 
 export default function App() {
